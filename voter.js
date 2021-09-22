@@ -1,3 +1,5 @@
+// is personal legal
+
 class Voter {
     constructor (firstName, lastName, birthYear) {
         
